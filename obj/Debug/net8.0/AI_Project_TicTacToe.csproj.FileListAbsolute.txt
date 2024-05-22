@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\AI_Project_TicTacToe\bin\Debug\net8.0\AI_Project_TicTacToe.exe
+C:\Users\HP\source\repos\AI_Project_TicTacToe\bin\Debug\net8.0\AI_Project_TicTacToe.deps.json
+C:\Users\HP\source\repos\AI_Project_TicTacToe\bin\Debug\net8.0\AI_Project_TicTacToe.runtimeconfig.json
+C:\Users\HP\source\repos\AI_Project_TicTacToe\bin\Debug\net8.0\AI_Project_TicTacToe.dll
+C:\Users\HP\source\repos\AI_Project_TicTacToe\bin\Debug\net8.0\AI_Project_TicTacToe.pdb
+C:\Users\HP\source\repos\AI_Project_TicTacToe\obj\Debug\net8.0\AI_Project_TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AI_Project_TicTacToe\obj\Debug\net8.0\AI_Project_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AI_Project_TicTacToe\obj\Debug\net8.0\AI_Project_TicTacToe.AssemblyInfo.cs
+C:\Users\HP\source\repos\AI_Project_TicTacToe\obj\Debug\net8.0\AI_Project_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AI_Project_TicTacToe\obj\Debug\net8.0\AI_Project_TicTacToe.dll
+C:\Users\HP\source\repos\AI_Project_TicTacToe\obj\Debug\net8.0\refint\AI_Project_TicTacToe.dll
+C:\Users\HP\source\repos\AI_Project_TicTacToe\obj\Debug\net8.0\AI_Project_TicTacToe.pdb
+C:\Users\HP\source\repos\AI_Project_TicTacToe\obj\Debug\net8.0\AI_Project_TicTacToe.genruntimeconfig.cache
+C:\Users\HP\source\repos\AI_Project_TicTacToe\obj\Debug\net8.0\ref\AI_Project_TicTacToe.dll
